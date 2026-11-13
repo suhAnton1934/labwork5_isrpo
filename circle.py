@@ -8,6 +8,6 @@ def area(r):
 
 def perimeter(r):
     '''Принимает радиус r, возвращает периметр P = 2 * r * pi'''
-    return 2 * math.pi*r
+    return 2 * math.pi * r
 
 
