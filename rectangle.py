@@ -23,4 +23,4 @@ def perimeter(a, b):
 		Параметры вывода:
 			perimeter(a, b) (int): периметр прямоугольника со сторонами a и b
 	'''
-	return 2*(a + b)
+	return 2*(a+b)
